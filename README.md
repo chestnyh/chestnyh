@@ -1,3 +1,3 @@
 # Info
 
-[Tech Skills](https://github.com/chestnyh/chestnyh/TECH_SKILLS.md)
+[Tech Skills](https://github.com/chestnyh/chestnyh/blob/main/TECH_SKILLS.md)
