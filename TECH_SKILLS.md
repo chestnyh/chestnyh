@@ -1,8 +1,8 @@
 # Tech Skills
 
-<details>
-  <summary>Java Script</summary>
-  |||
-  |:--:|:--:|
-  | Add some | Add some |
-</details>
+### Java Script
+
+||||
+|--------------|-------|------------|
+| Juicy Apples |  1.99 |        739 |
+| Bananas      |  1.89 |          6 |
