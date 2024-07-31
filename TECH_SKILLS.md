@@ -2,11 +2,7 @@
 
 <details>
   <summary>Java Script</summary>
-|||
-|:--:|:--:|
-| Add some | Add some |
+  |||
+  |:--:|:--:|
+  | Add some | Add some |
 </details>
-
-|||
-|:--:|:--:|
-| Add some | Add some |
