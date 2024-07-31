@@ -4,5 +4,5 @@
   <summary>Java Script</summary>
 |||
 |:--:|:--:|
-| [x] Add some | [x] Add some |
+| Add some | Add some |
 </details>
