@@ -14,20 +14,20 @@
 
 ## Databases
 
-### PostgresSql
+[Postgresql](https://github.com/chestnyh/chestnyh/blob/main/databases/POSTGRESQL.md)
 
-### MongoDB
+[MongoDB](https://github.com/chestnyh/chestnyh/blob/main/databases/MONGODB.md)
 
-### Redis
+[Redis](https://github.com/chestnyh/chestnyh/blob/main/databases/REDIS.md)
 
-### Elasticsearch
+[Elasticsearch](https://github.com/chestnyh/chestnyh/blob/main/databases/ELASTICSEARCH.md)
 
 ## Cloud technologies
 
-### AWS
+[AWS](https://github.com/chestnyh/chestnyh/blob/main/clouds/AWS.md)
 
-### Google cloud
+[Google cloud platform(GCP)](https://github.com/chestnyh/chestnyh/blob/main/clouds/GCP.md)
 
-### Azure
+[Azure](https://github.com/chestnyh/chestnyh/blob/main/clouds/AZURE.md)
 
-### Digital Ocean
+[Digital Ocean](https://github.com/chestnyh/chestnyh/blob/main/clouds/DIGITAL_OCEAN.md)
