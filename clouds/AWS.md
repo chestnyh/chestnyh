@@ -3,6 +3,10 @@
 🟥🟨🟩⬜
 
 <details>
+    <summary>AWS EC2 (Elastic Compute Cloud) ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜</summary>
+    TODO add des description here 
+</details>
+<details>
     <summary>AWS IAM (Identity and Access Management) ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜</summary>
     TODO add des description here 
 </details>
@@ -64,5 +68,9 @@
 </details>
 <details>
     <summary>AWS Autoscaling ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜</summary>
+     TODO add des description here
+</details>
+<details>
+    <summary>Amazon ELB (Elastic Load Balancing)  ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜</summary>
      TODO add des description here
 </details>
