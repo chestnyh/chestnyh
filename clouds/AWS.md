@@ -1,7 +1,5 @@
 # AWS
 
-# List of AWS Services
-
 🟥🟨🟩⬜
 
 <details>
