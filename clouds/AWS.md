@@ -11,6 +11,10 @@
     TODO add des description here 
 </details>
 <details>
+    <summary>AWS IAM Identity Center ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜</summary>
+    TODO add des description here 
+</details>
+<details>
     <summary>AWS EC2 (Elastic Compute Cloud) ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜</summary>
     TODO add des description here 
 </details>
