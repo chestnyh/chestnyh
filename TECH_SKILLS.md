@@ -31,3 +31,7 @@
 [Azure](https://github.com/chestnyh/chestnyh/blob/main/clouds/AZURE.md)
 
 [Digital Ocean](https://github.com/chestnyh/chestnyh/blob/main/clouds/DIGITAL_OCEAN.md)
+
+## Common
+
+[API](https://github.com/chestnyh/chestnyh/blob/main/common/API.md)
