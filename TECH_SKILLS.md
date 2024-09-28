@@ -35,3 +35,11 @@
 ## Common
 
 [API](https://github.com/chestnyh/chestnyh/blob/main/common/API.md)
+
+## Design Patterns
+
+[Creational Patterns](https://github.com/chestnyh/chestnyh/blob/main/design-patterns/CREATIONAL_PATTERNS.md)
+
+[Structural Patterns](https://github.com/chestnyh/chestnyh/blob/main/design-patterns/STRUCTURAL_PATTERNS.md)
+
+[Behavioral Patterns](https://github.com/chestnyh/chestnyh/blob/main/design-patterns/BEHAVIORAL_PATTERNS.md)
