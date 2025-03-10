@@ -4,10 +4,10 @@
 
 JavaScript ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
-[ ⬜ JavaScript Fundamentals](https://javascript.info/first-steps) 
+[ ⬜ JavaScript Fundamentals](https://javascript.info/first-steps)
     <details>
         <summary>[ ⬜ Hello, world!](https://javascript.info/hello-world)</summary>
-    </details>    
+    </details>
     <details>
         <summary>[ ⬜ Code structure](https://javascript.info/structure)</summary>
     </details>
@@ -45,7 +45,7 @@ JavaScript ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
         <summary>[ ⬜ Loops: while and for](https://javascript.info/while-for)</summary>
     </details>
     <details>
-        <summary>[ ⬜ The `switch` statement](https://javascriptan .info/switch)</summary>
+        <summary>[ ⬜ The "switch" statement](https://javascriptan.info/switch)</summary>
     </details>
     <details>
         <summary>[ ⬜ Functions](https://javascript.info/function-basics)</summary>
@@ -59,6 +59,7 @@ JavaScript ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
     <details>
         <summary>[ ⬜ JavaScript specials](https://javascript.info/javascript-specials)</summary>
     </details>
+
 [ ⬜ Code quality](https://javascript.info/code-quality)
     <details>
         <summary>[ ⬜ Debugging in the browser](https://javascript.info/debugging-chrome)</summary>
@@ -77,7 +78,8 @@ JavaScript ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
     </details>
     <details>
         <summary>[ ⬜ Polyfills and transpilers](https://javascript.info/polyfills)</summary>
-    </details>          
+    </details>
+
 [ ⬜ Objects: the basics](https://javascript.info/object-basics)
     <details>
         <summary>[ ⬜ Objects](https://javascript.info/object)</summary>
@@ -103,6 +105,7 @@ JavaScript ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
     <details>
         <summary>[ ⬜ Object to primitive conversion](https://javascript.info/object-toprimitive)</summary>
     </details>
+
 [ ⬜ Data types](https://javascript.info/data-types)
     <details>
         <summary>[ ⬜ Methods of primitives](https://javascript.info/primitives-methods)</summary>
@@ -140,6 +143,7 @@ JavaScript ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
     <details>
         <summary>[ ⬜ JSON methods, toJSON](https://javascript.info/json)</summary>
     </details>
+
 [ ⬜ Advanced working with functions](https://javascript.info/advanced-functions)
     <details>
         <summary>[ ⬜ Recursion and stack](https://javascript.info/recursion)</summary>
@@ -174,6 +178,7 @@ JavaScript ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
     <details>
         <summary>[ ⬜ Arrow functions revisited](https://javascript.info/arrow-functions)</summary>
     </details>
+
 [ ⬜ Object properties configuration](https://javascript.info/object-properties)
     <details>
         <summary>[ ⬜ Property flags and descriptors](https://javascript.info/property-descriptors)</summary>
@@ -181,6 +186,7 @@ JavaScript ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
     <details>
         <summary>[ ⬜ Property getters and setters](https://javascript.info/property-accessors)</summary>
     </details>
+
 [ ⬜ Prototypes, inheritance](https://javascript.info/prototypes)
     <details>
         <summary>[ ⬜ Prototypal inheritance](https://javascript.info/prototype-inheritance)</summary>
@@ -193,7 +199,8 @@ JavaScript ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
     </details>
     <details>
         <summary>[ ⬜ Prototype methods, objects without __proto__](https://javascript.info/prototype-methods)</summary>
-    </details>
+    </details>]
+
 [ ⬜ Classes](https://javascript.info/classes)
     <details>
         <summary>[ ⬜ Class basic syntax](https://javascript.info/class)</summary>
@@ -216,6 +223,7 @@ JavaScript ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
     <details>
         <summary>[ ⬜ Mixins](https://javascript.info/mixins)</summary>
     </details>
+
 [ ⬜ Error handling](https://javascript.info/error-handling)
     <details>
         <summary>[ ⬜ Error handling, "try...catch"](https://javascript.info/try-catch)</summary>
@@ -223,6 +231,7 @@ JavaScript ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
     <details>
         <summary>[ ⬜ Custom errors, extending Error](https://javascript.info/custom-errors)</summary>
     </details>
+
 [ ⬜ Promises, async/await](https://javascript.info/async)
     <details>
         <summary>[ ⬜ Introduction: callbacks](https://javascript.info/callbacks)</summary>
@@ -248,6 +257,7 @@ JavaScript ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
     <details>
         <summary>[ ⬜ Async/await](https://javascript.info/async-await)</summary>
     </details>
+
 [ ⬜ Generators, advanced iteration](https://javascript.info/generators-iterators)
     <details>
         <summary>[ ⬜ Generators](https://javascript.info/generators)</summary>
@@ -255,6 +265,7 @@ JavaScript ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
     <details>
         <summary>[ ⬜ Async iteration and generators](https://javascript.info/async-iterators-generators)</summary>
     </details>
+
 [ ⬜ Modules](https://javascript.info/modules)
     <details>
         <summary>[ ⬜ Modules, introduction](https://javascript.info/modules-intro)</summary>
@@ -265,6 +276,7 @@ JavaScript ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
     <details>
         <summary>[ ⬜ Dynamic imports](https://javascript.info/modules-dynamic-imports)</summary>
     </details>
+    
 [ ⬜ Miscellaneous](https://javascript.info/js-misc)
     <details>
         <summary>[ ⬜ Proxy and Reflect](https://javascript.info/proxy)</summary>
