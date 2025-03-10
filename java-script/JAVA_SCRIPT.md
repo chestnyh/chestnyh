@@ -4,7 +4,7 @@
 
 JavaScript ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
-**[ ⬜ JavaScript Fundamentals](https://javascript.info/first-steps)**
+**[ ⬜ -=JavaScript Fundamentals=- ](https://javascript.info/first-steps)**
     <details>
         <summary>[ ⬜ Hello, world!](https://javascript.info/hello-world)</summary>
     </details>
@@ -58,8 +58,7 @@ JavaScript ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
     </details>
     <details>
         <summary>[ ⬜ JavaScript specials](https://javascript.info/javascript-specials)</summary>
-    </details>
-
+    </details>    
 **[ ⬜ Code quality](https://javascript.info/code-quality)**
     <details>
         <summary>[ ⬜ Debugging in the browser](https://javascript.info/debugging-chrome)</summary>
@@ -78,8 +77,7 @@ JavaScript ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
     </details>
     <details>
         <summary>[ ⬜ Polyfills and transpilers](https://javascript.info/polyfills)</summary>
-    </details>
-
+    </details>    
 [ ⬜ Objects: the basics](https://javascript.info/object-basics)
     <details>
         <summary>[ ⬜ Objects](https://javascript.info/object)</summary>
