@@ -59,7 +59,7 @@ JavaScript ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
     <details>
         <summary>[ ⬜ JavaScript specials](https://javascript.info/javascript-specials)</summary>
     </details>    
-**[ ⬜ Code quality](https://javascript.info/code-quality)**
+**[ ⬜ -=Code quality=- ](https://javascript.info/code-quality)**
     <details>
         <summary>[ ⬜ Debugging in the browser](https://javascript.info/debugging-chrome)</summary>
     </details>
@@ -78,7 +78,7 @@ JavaScript ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
     <details>
         <summary>[ ⬜ Polyfills and transpilers](https://javascript.info/polyfills)</summary>
     </details>    
-[ ⬜ Objects: the basics](https://javascript.info/object-basics)
+**[ ⬜ -=Objects: the basics=- ](https://javascript.info/object-basics)**
     <details>
         <summary>[ ⬜ Objects](https://javascript.info/object)</summary>
     </details>
@@ -102,9 +102,8 @@ JavaScript ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
     </details>
     <details>
         <summary>[ ⬜ Object to primitive conversion](https://javascript.info/object-toprimitive)</summary>
-    </details>
-
-[ ⬜ Data types](https://javascript.info/data-types)
+    </details>    
+**[ ⬜ -=Data types=- ](https://javascript.info/data-types)**
     <details>
         <summary>[ ⬜ Methods of primitives](https://javascript.info/primitives-methods)</summary>
     </details>
@@ -140,9 +139,8 @@ JavaScript ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
     </details>
     <details>
         <summary>[ ⬜ JSON methods, toJSON](https://javascript.info/json)</summary>
-    </details>
-
-[ ⬜ Advanced working with functions](https://javascript.info/advanced-functions)
+    </details>    
+**[ ⬜ -=Advanced working with functions=- ](https://javascript.info/advanced-functions)**
     <details>
         <summary>[ ⬜ Recursion and stack](https://javascript.info/recursion)</summary>
     </details>
@@ -175,17 +173,15 @@ JavaScript ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
     </details>
     <details>
         <summary>[ ⬜ Arrow functions revisited](https://javascript.info/arrow-functions)</summary>
-    </details>
-
-[ ⬜ Object properties configuration](https://javascript.info/object-properties)
+    </details>    
+**[ ⬜ -=Object properties configuration=- ](https://javascript.info/object-properties)**
     <details>
         <summary>[ ⬜ Property flags and descriptors](https://javascript.info/property-descriptors)</summary>
     </details>
     <details>
         <summary>[ ⬜ Property getters and setters](https://javascript.info/property-accessors)</summary>
-    </details>
-
-[ ⬜ Prototypes, inheritance](https://javascript.info/prototypes)
+    </details>    
+**[ ⬜ -=Prototypes, inheritance=- ](https://javascript.info/prototypes)**
     <details>
         <summary>[ ⬜ Prototypal inheritance](https://javascript.info/prototype-inheritance)</summary>
     </details>
@@ -197,9 +193,8 @@ JavaScript ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
     </details>
     <details>
         <summary>[ ⬜ Prototype methods, objects without __proto__](https://javascript.info/prototype-methods)</summary>
-    </details>
-
-[ ⬜ Classes](https://javascript.info/classes)
+    </details>    
+**[ ⬜ -=Classes=- ](https://javascript.info/classes)**
     <details>
         <summary>[ ⬜ Class basic syntax](https://javascript.info/class)</summary>
     </details>
@@ -220,17 +215,15 @@ JavaScript ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
     </details>
     <details>
         <summary>[ ⬜ Mixins](https://javascript.info/mixins)</summary>
-    </details>
-
-[ ⬜ Error handling](https://javascript.info/error-handling)
+    </details>    
+**[ ⬜ -=Error handling=- ](https://javascript.info/error-handling)**
     <details>
         <summary>[ ⬜ Error handling, "try...catch"](https://javascript.info/try-catch)</summary>
     </details>
     <details>
         <summary>[ ⬜ Custom errors, extending Error](https://javascript.info/custom-errors)</summary>
-    </details>
-
-[ ⬜ Promises, async/await](https://javascript.info/async)
+    </details>    
+**[ ⬜ -=Promises, async/await=- ](https://javascript.info/async)**
     <details>
         <summary>[ ⬜ Introduction: callbacks](https://javascript.info/callbacks)</summary>
     </details>
@@ -254,17 +247,15 @@ JavaScript ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
     </details>
     <details>
         <summary>[ ⬜ Async/await](https://javascript.info/async-await)</summary>
-    </details>
-
-[ ⬜ Generators, advanced iteration](https://javascript.info/generators-iterators)
+    </details>    
+**[ ⬜ -=Generators, advanced iteration=- ](https://javascript.info/generators-iterators)**
     <details>
         <summary>[ ⬜ Generators](https://javascript.info/generators)</summary>
     </details>
     <details>
         <summary>[ ⬜ Async iteration and generators](https://javascript.info/async-iterators-generators)</summary>
-    </details>
-
-[ ⬜ Modules](https://javascript.info/modules)
+    </details>    
+**[ ⬜ -=Modules=- ](https://javascript.info/modules)**
     <details>
         <summary>[ ⬜ Modules, introduction](https://javascript.info/modules-intro)</summary>
     </details>
@@ -273,9 +264,8 @@ JavaScript ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
     </details>
     <details>
         <summary>[ ⬜ Dynamic imports](https://javascript.info/modules-dynamic-imports)</summary>
-    </details>
-
-[ ⬜ Miscellaneous](https://javascript.info/js-misc)
+    </details>    
+**[ ⬜ -=Miscellaneous=- ](https://javascript.info/js-misc)**
     <details>
         <summary>[ ⬜ Proxy and Reflect](https://javascript.info/proxy)</summary>
     </details>
