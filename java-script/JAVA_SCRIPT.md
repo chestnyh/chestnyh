@@ -199,7 +199,7 @@ JavaScript ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
     </details>
     <details>
         <summary>[ ⬜ Prototype methods, objects without __proto__](https://javascript.info/prototype-methods)</summary>
-    </details>]
+    </details>
 
 [ ⬜ Classes](https://javascript.info/classes)
     <details>
@@ -276,7 +276,7 @@ JavaScript ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
     <details>
         <summary>[ ⬜ Dynamic imports](https://javascript.info/modules-dynamic-imports)</summary>
     </details>
-    
+
 [ ⬜ Miscellaneous](https://javascript.info/js-misc)
     <details>
         <summary>[ ⬜ Proxy and Reflect](https://javascript.info/proxy)</summary>
