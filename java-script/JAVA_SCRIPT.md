@@ -4,7 +4,7 @@
 
 JavaScript ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
-[ ⬜ JavaScript Fundamentals](https://javascript.info/first-steps)
+**[ ⬜ JavaScript Fundamentals](https://javascript.info/first-steps)**
     <details>
         <summary>[ ⬜ Hello, world!](https://javascript.info/hello-world)</summary>
     </details>
@@ -60,7 +60,7 @@ JavaScript ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
         <summary>[ ⬜ JavaScript specials](https://javascript.info/javascript-specials)</summary>
     </details>
 
-[ ⬜ Code quality](https://javascript.info/code-quality)
+**[ ⬜ Code quality](https://javascript.info/code-quality)**
     <details>
         <summary>[ ⬜ Debugging in the browser](https://javascript.info/debugging-chrome)</summary>
     </details>
