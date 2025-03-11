@@ -2,7 +2,7 @@
 
 🟥🟨🟩⬜
 
-TypeScript ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   
+TypeScript ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
 **⬜ A great first read for your daily TS work.**
     <details>
